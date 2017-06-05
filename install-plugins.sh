@@ -7,7 +7,7 @@ cd bundle
 
 while read repo; do
     git clone "$repo"
-done < repolist
+done < ../repolist
 
 cd YouCompleteMe
 git submodule update --init --recursive
