@@ -1,0 +1,14 @@
+git://github.com/jiangmiao/auto-pairs.git
+https://github.com/eagletmt/ghcmod-vim.git
+https://github.com/neovimhaskell/haskell-vim.git
+https://github.com/eagletmt/neco-ghc
+https://github.com/scrooloose/nerdtree.git
+https://github.com/klen/python-mode.git
+https://github.com/vim-airline/vim-airline
+https://github.com/duythinht/vim-coffee
+git://github.com/altercation/vim-colors-solarized.git
+https://github.com/jonathanfilip/vim-lucius.git
+https://github.com/plasticboy/vim-markdown.git
+https://github.com/Shougo/vimproc.vim.git
+https://github.com/rdnetto/YCM-Generator
+https://github.com/Valloric/YouCompleteMe.git
