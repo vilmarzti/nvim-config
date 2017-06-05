@@ -1,6 +1,0 @@
-#!/bin/bash
-
-for d in ./bundle/*/;
-do
-echo $d
-done
